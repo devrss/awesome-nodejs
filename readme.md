@@ -38,18 +38,6 @@
 		</a>
 		<br>
 		<br>
-		<a href="https://doppler.com/?utm_campaign=github_repo&utm_medium=referral&utm_content=awesome-node&utm_source=github">
-			<div>
-				<img src="https://dashboard.doppler.com/imgs/logo-long.svg" width="240" alt="Doppler">
-			</div>
-			<b>All your environment variables, in one place</b>
-			<div>
-				<sub>Stop struggling with scattered API keys, hacking together home-brewed tools,</sub>
-				<br>
-				<sup>and avoiding access controls. Keep your team and servers in sync with Doppler.</sup>
-			</div>
-		</a>
-		<br>
 		<a href="https://workos.com/?utm_campaign=github_repo&utm_medium=referral&utm_content=awesome-nodejs&utm_source=github">
 			<div>
 				<img src="https://sindresorhus.com/assets/thanks/workos-logo-white-bg.svg" width="200" alt="WorkOS">
@@ -80,24 +68,6 @@
 				<sup><b>Founded in 2018, OSS Capital is the first and only venture capital platform focused<br>exclusively on supporting early-stage COSS (commercial open source) startup founders.</b></sup>
 			</div>
 		</a>
-		<br>
-		<br>
-		<a href="https://www.gitpod.io/?utm_campaign=sindresorhus&utm_medium=referral&utm_content=awesome&utm_source=github">
-			<div>
-				<img src="https://sindresorhus.com/assets/thanks/gitpod-logo-white-bg.svg" width="220" alt="Gitpod">
-			</div>
-			<b>Dev environments built for the cloud</b>
-			<div>
-				<sub>
-				Natively integrated with GitLab, GitHub, and Bitbucket, Gitpod automatically and continuously prebuilds dev
-				<br>
-				environments for all your branches. As a result team members can instantly start coding with fresh dev environments
-				<br>
-				for each new task - no matter if you are building a new feature, want to fix a bug, or work on a code review.
-				</sub>
-			</div>
-		</a>
-		<br>
 		<br>
 		<br>
 		<a href="https://getstream.io/chat/sdk/ios/?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Jan2022_iOSChatSDK&utm_term=Sindresorhus#gh-light-mode-only">
